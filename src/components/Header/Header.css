@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    font-size: 1.35rem;
+    font-family: 'roboto', sans-serif;
+    font-weight: 600;
+}
+.header{
+    display: flex;
+    padding: 1rem  5rem 1rem 5rem;
+    justify-content: space-between;
+    align-items: center;
+    background-image: linear-gradient(to right, #620d04, #af1807, #790101);
+    color: white;
+    
+}
+.rightheader{
+    display: flex;
+    align-items: center;
+}
+.profile{
+    color: white;
+    font-weight: 700;
+    margin-left: 1rem;
+}
